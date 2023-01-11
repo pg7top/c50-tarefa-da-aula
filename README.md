@@ -1,1 +1,23 @@
 # c50-tarefa-da-aula
+
+NOME-giga chad atras de sua redenção
+
+PC-giga chad
+
+NPC-cafés,bandeiras chad,bandeiras coloridas
+
+EQUILIBRIO-uma quantidade rasoavel dos colecionaveis e dos inimigos
+
+SORTE x HABILIDADE-SER HABILIDOSO PARA ESCAPAR DAS BANDEIRAS coloridas
+
+FEEDBACK- mostra a quantidade de cafés e bandeiras chad que voçe pegou 
+
+HISTORIA DO JOGO-giga chad viu muitas badeira diferendes espalhadas no chao e entao resolveu ajuntalas
+mas ele precisa de coletar ao mesmo tempo cafés para consiguir continuar com sua organização
+
+OBJETIVO-coletar o maximo de bandeiras chad do chão e evitar as bandeiras coloridas
+
+VISUAL-PIXEL ART + IMAGENS
+
+..........................................................................................................?
+ISSO PROF??
